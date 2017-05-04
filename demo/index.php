@@ -1,6 +1,5 @@
 <?php
-echo "hiii";
-die;
+
 include('connection.php');
 ?>
 <?php
