@@ -1,5 +1,4 @@
 <?php 
-
 include('validate.php');
 ?>
 <!DOCTYPE html>
