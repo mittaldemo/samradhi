@@ -1,5 +1,5 @@
 <?php 
-
+echo "samradhi";
     session_start(); 
     require("connection.php"); 
     if(isset($_GET['page']))
