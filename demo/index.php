@@ -1,5 +1,5 @@
 <?php
-
+echo "samradhi";
 include('connection.php');
 ?>
 <?php
