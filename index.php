@@ -1,7 +1,5 @@
 <?php 
 include('validate.php');
-echo "hiii";
-die;
 ?>
 <!DOCTYPE html>
 <head>
