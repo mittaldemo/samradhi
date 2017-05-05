@@ -1,5 +1,5 @@
 <?php
-echo "mittal";
+echo "samradhi";
 include('connection.php');
 ?>
 <?php
