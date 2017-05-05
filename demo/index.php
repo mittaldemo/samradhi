@@ -1,5 +1,5 @@
 <?php
-
+echo "mittal";
 include('connection.php');
 ?>
 <?php
