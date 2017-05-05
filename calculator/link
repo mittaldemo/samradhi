@@ -1,7 +1,0 @@
-PHP Case Sensitivity
-
-In PHP, all keywords (e.g. if, else, while, echo, etc.), classes, functions, and user-defined functions are NOT case-sensitive.
-However; all variable names are case-sensitive.
-
-
-https://www.anaesthetist.com/mnm/javascript/calc.htm
