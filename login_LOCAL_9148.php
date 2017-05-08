@@ -1,5 +1,5 @@
 <?php
-echo "in abc branch";
+echo "in master branch";
 session_start();
 if($_SESSION['userid'])
 {
@@ -48,7 +48,6 @@ if($_SESSION['userid'])
 
 
 <?php
-echo "test";
 include('connection.php');
 if(isset($_REQUEST["login"]))
 {
