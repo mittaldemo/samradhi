@@ -1,12 +1,10 @@
 <?php
-echo "in abc branch";
 session_start();
 if($_SESSION['userid'])
 {
 	header("location:welcomeuser.php");
 }
 ?>
-
 <!DOCTYPE html>
 <head>
 <meta http-equiv="Content-Type"/> 
@@ -48,7 +46,11 @@ if($_SESSION['userid'])
 
 
 <?php
+<<<<<<< HEAD
 echo "test";
+=======
+echo "demo";
+>>>>>>> master
 include('connection.php');
 if(isset($_REQUEST["login"]))
 {

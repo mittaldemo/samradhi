@@ -1,6 +1,5 @@
 <?php 
-
-    session_start(); 
+ session_start(); 
     require("connection.php"); 
     if(isset($_GET['page']))
     { 
