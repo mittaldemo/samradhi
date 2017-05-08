@@ -46,6 +46,7 @@ if($_SESSION['userid'])
 
 
 <?php
+echo "demo";
 include('connection.php');
 if(isset($_REQUEST["login"]))
 {
