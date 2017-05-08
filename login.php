@@ -1,16 +1,10 @@
 <?php
-<<<<<<< HEAD
-echo "in master branch";
-=======
-echo "in abc branch";
->>>>>>> abc
 session_start();
 if($_SESSION['userid'])
 {
 	header("location:welcomeuser.php");
 }
 ?>
-
 <!DOCTYPE html>
 <head>
 <meta http-equiv="Content-Type"/> 
