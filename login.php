@@ -1,4 +1,5 @@
 <?php
+echo "in abc branch";
 session_start();
 if($_SESSION['userid'])
 {
