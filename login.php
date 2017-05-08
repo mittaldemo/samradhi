@@ -1,5 +1,9 @@
 <?php
+<<<<<<< HEAD
 echo "in master branch";
+=======
+echo "in abc branch";
+>>>>>>> abc
 session_start();
 if($_SESSION['userid'])
 {
