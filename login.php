@@ -47,7 +47,11 @@ if($_SESSION['userid'])
 
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "test";
+=======
+echo "demo";
+>>>>>>> master
 =======
 echo "demo";
 >>>>>>> master
