@@ -46,15 +46,7 @@ if($_SESSION['userid'])
 
 
 <?php
-<<<<<<< HEAD
 echo "demo";
-=======
-<<<<<<< HEAD
-echo "test";
-=======
-echo "demo";
->>>>>>> master
->>>>>>> abc
 include('connection.php');
 if(isset($_REQUEST["login"]))
 {
