@@ -1,3 +1,3 @@
 <?php
-echo "hello in master";
+echo "hello";
 ?>
